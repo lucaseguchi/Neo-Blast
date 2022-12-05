@@ -1,11 +1,11 @@
-# Neo-Blast
+# Software Neo Blast
 # Software Neo Blast for Blast Design and Environmental Impacts Assessments
 
 This is a small Python3 application that moves files whose names match a user input regular expression. The source and destination directories are specified by the user and can not be remote directories. As long as the program is running, the code checks if there are new valid files in the source directory based on a timer and continuously shows plots and statistics regarding the files that were moved. The source and destination directories must exist and be writable for the program to run.
 
 This program was written and tested in a Linux machine with Python 3.8.
 
-<img src="https://ibb.co/S61xcRn" alt="Software-Neo-Blast" width="700"/>
+<img src="https://i.ibb.co/0nWXKhM/Software-Neo-Blast.png" alt="Software Neo Blast" width="700"/>
 
 ## Dependencies
 
